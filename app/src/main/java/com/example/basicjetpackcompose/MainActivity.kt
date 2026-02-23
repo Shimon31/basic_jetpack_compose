@@ -40,7 +40,8 @@ class MainActivity : ComponentActivity() {
                         )
                         Text(
                             text = "Text Title small",
-                            style = CustomTypography.titleSmall
+                            style = CustomTypography.titleSmall,
+
 
                         )
                         Text(
@@ -48,6 +49,7 @@ class MainActivity : ComponentActivity() {
                             style = CustomTypography.titleMedium,
 
                             )
+
 
                         Text(
                             text = "Text Title Large",
