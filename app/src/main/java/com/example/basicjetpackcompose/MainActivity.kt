@@ -42,7 +42,6 @@ class MainActivity : ComponentActivity() {
                             text = "Text Title small",
                             style = CustomTypography.titleSmall,
 
-
                         )
                         Text(
                             text = "Text Title Medium",
